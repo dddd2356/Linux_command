@@ -1,2 +1,2 @@
-# Linux_command
-Linux_command: op, ps, jobs, kill
+# Linux_Command
+Linux 주요 명령어 - op, ps, jobs, kill
